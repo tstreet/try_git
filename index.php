@@ -5,7 +5,7 @@
  * APPLICATION ENVIRONMENT
  *---------------------------------------------------------------
  *
- *Author: tstreet
+ * Author: tstreet
  *
  * You can load different configurations depending on your
  * current environment. Setting the environment also influences
